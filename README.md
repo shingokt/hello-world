@@ -1,5 +1,5 @@
 # hello-world
 my first repository
 
-shingo is here.
+shingo kita is here.
 
